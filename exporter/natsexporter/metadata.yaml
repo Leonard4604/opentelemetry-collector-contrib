@@ -7,7 +7,7 @@ status:
     development: [traces, metrics, logs]
   distributions: []
   codeowners:
-    active: [leocarrozzo]
+    active: []
 
 tests:
   config:
